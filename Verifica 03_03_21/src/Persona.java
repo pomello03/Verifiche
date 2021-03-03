@@ -43,4 +43,5 @@ public class Persona {
 	public void setNascita(String nascita) {
 		this.nascita = nascita;
 	}
+	
 }

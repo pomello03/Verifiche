@@ -37,3 +37,4 @@ public class Finestra extends JFrame implements ActionListener{
 	}
 	
 }
+

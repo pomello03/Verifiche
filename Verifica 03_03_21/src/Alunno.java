@@ -24,5 +24,6 @@ public class Alunno extends Persona{
 	public void setSezione(String sezione) {
 		this.sezione = sezione;
 	}
+	
 
 }

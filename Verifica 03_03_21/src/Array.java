@@ -28,3 +28,4 @@ public class Array extends ArrayList <Persona>{
 	}
 
 }
+
